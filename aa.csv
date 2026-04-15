@@ -1,0 +1,37 @@
+Parameters,Algorithms,Value
+SVM,Precision,97.72727272727273
+SVM,Recall,93.05555555555556
+SVM,F1 Score,95.10586601874348
+SVM,Accuracy,96.45390070921985
+SVM,Sensitivity,100.0
+SVM,Specificity,86.11111111111111
+KNN,Precision,86.03784403669725
+KNN,Recall,83.25396825396825
+KNN,F1 Score,84.49697636063772
+KNN,Accuracy,88.65248226950354
+KNN,Sensitivity,94.28571428571428
+KNN,Specificity,72.22222222222221
+Naive Bayes,Precision,97.36842105263158
+Naive Bayes,Recall,99.04761904761905
+Naive Bayes,F1 Score,98.1678794178794
+Naive Bayes,Accuracy,98.58156028368793
+Naive Bayes,Sensitivity,98.09523809523809
+Naive Bayes,Specificity,100.0
+Logistic Regression,Precision,94.4047619047619
+Logistic Regression,Recall,94.4047619047619
+Logistic Regression,F1 Score,94.4047619047619
+Logistic Regression,Accuracy,95.74468085106383
+Logistic Regression,Sensitivity,97.14285714285714
+Logistic Regression,Specificity,91.66666666666666
+ANN,Precision,93.7659683188554
+ANN,Recall,95.31746031746032
+ANN,F1 Score,94.50363825363826
+ANN,Accuracy,95.74468085106383
+ANN,Sensitivity,96.19047619047619
+ANN,Specificity,94.44444444444444
+CNN,Precision,100.0
+CNN,Recall,100.0
+CNN,F1 Score,100.0
+CNN,Accuracy,100.0
+CNN,Sensitivity,100.0
+CNN,Specificity,100.0
